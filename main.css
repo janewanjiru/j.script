@@ -1,0 +1,16 @@
+h1{
+    background-color: brown;
+text-align: left;
+}
+h2{
+    color: brown;
+    text-align: left;
+}
+div{
+    background-color: lightgray;
+    width: 400px;
+  border: 30px solid rgb(187,54,54);
+    padding: 50px;
+    margin: 20px;
+    text-align: center;
+}
